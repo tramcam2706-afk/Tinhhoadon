@@ -20,13 +20,14 @@ if "bills" not in st.session_state:
 # ==========================
 menu = {
    "Đồ ăn": {
-       "Pizza Hải Sản": 120000,
+       "Pizza Hải Sản": 12000,
        "Mì Ý Bò Bằm": 50000,
        "Burger Gà": 65000,
        "Salad Trộn": 50000,
        "Bít tết Bò Mỹ": 250000,
-       "Sườn nướng BBQ": 180000,
+       "Sườn nướng BBQ": 190000,
        "Cánh gà chiên mắm": 75000,
+       "Lẩu cua": 15000,
        "Lẩu cá diêu hồng": 200000,
        "Lẩu Thái hải sản": 300000,
        "Lẩu cá kèo": 140000
