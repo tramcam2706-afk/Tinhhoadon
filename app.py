@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
  
-st.title("🍽️ Hệ thống Order Nhà Hàng - Bình Bé Bỏng")
+st.title("🍽️ Hệ thống Order Nhà Hàng - Nguyễn Xuân Nam")
  
 # ==========================
 # Khởi tạo dữ liệu
